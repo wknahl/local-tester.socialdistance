@@ -1,2 +1,3 @@
 # local-tester.socialdistance
-local stream
+
+required the model on https://s.id/IoDlZ
